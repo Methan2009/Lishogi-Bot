@@ -1,4 +1,4 @@
-token: "QdXn0ZZnu8CoGC43"    # lishogi OAuth2 Token with 'play as bot' enabled
+token: "Pphc3ajAmiEhYfi0"    # lishogi OAuth2 Token with 'play as bot' enabled
 url: "https://mskchess.ru/"  # lishogi base URL
 
 engine:                      # engine settings
